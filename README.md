@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faraz Damiro
-- 👀 I’m interested in Front-end web devlope
+- 👀 I’m interested in Front-end web devlopment
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web design project
 - 📫 How to reach me farazdamiro@gmail.com
